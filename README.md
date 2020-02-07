@@ -4,3 +4,4 @@ This repo is intended to allocate project issues only. For the time being, the c
 ## App url
 https://worker.azurewebsites.net
 
+![](http://ozonearg.azurewebsites.net/assets/images/portfolio/5.png)
