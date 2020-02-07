@@ -1,6 +1,6 @@
-# Workspace Enhancer
+# Worker (Workspace Enhancer)
 This repo is intended to allocate project issues only. For the time being, the code will stay private.
 
 ## App url
-https://workspaceenhancer.azurewebsites.net
+https://worker.azurewebsites.net
 
